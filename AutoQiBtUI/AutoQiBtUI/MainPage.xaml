@@ -14,6 +14,7 @@
                    Text="Atomatically turn on BT when Qi charging is detected."/>
             <Switch/>
         </StackLayout>
+        <Button Text="Test"/>
     </StackLayout>
 
 </ContentPage>
